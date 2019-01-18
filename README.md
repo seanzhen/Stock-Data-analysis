@@ -7,5 +7,7 @@ This is my work on stock data analysis in 2017,then please read my paper:
 
 Iman Malik, Carl Henrik Ek, [*"Neural Translation of Musical Style"*](https://ieeexplore.ieee.org/abstract/document/8279215/authors#authors), 2017.**
 
-> **Zhen S, Wu Q, Wang X. [*"Excessive co-movement effect and evolution network analysis of Chinese stock market[C]"*]
-(https://ieeexplore.ieee.org/abstract/document/8279215/authors#authors)//System Integration (SII), 2017 IEEE/SICE International Symposium on. IEEE, 2017: 220-225.**
+> Zhen S, Wu Q, Wang X. 
+[*"Excessive co-movement effect and evolution network analysis of Chinese stock market[C]"*](https://ieeexplore.ieee.org/abstract/document/8279215/authors#authors)
+
+//System Integration (SII), 2017 IEEE/SICE International Symposium on. IEEE, 2017: 220-225.**
